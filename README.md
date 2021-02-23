@@ -14,3 +14,8 @@ Fullstack application for creating and marking off todos
 | Express.js  | Main HTTP server         |
 | TypeGraphQL | GraphQL server           |
 | TypeORM     | ORM for connecting to DB |
+
+
+### Give me a demo
+
+![Demo](https://github.com/scinscinscin/todo/raw/master/demo.gif)
